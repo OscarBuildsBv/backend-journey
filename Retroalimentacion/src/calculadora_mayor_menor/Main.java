@@ -1,4 +1,4 @@
-package calculadora_metodos;
+package calculadora_mayor_menor;
 
 import java.util.Scanner;
 
